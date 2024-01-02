@@ -3,3 +3,4 @@ Optimize image loading
 Add input sanitization
 Update build configuration
 Add webhook support
+Optimize image loading
