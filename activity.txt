@@ -1,3 +1,4 @@
 Update on 2023-01-01 at 13:41
 Optimize image loading
 Add input sanitization
+Update build configuration
