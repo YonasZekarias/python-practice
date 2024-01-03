@@ -4,3 +4,4 @@ Add input sanitization
 Update build configuration
 Add webhook support
 Optimize image loading
+Implement undo/redo
