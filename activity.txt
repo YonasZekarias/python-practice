@@ -6,3 +6,4 @@ Add webhook support
 Optimize image loading
 Implement undo/redo
 Implement file upload
+Add form validation
