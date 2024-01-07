@@ -8,3 +8,4 @@ Implement undo/redo
 Implement file upload
 Add form validation
 Add new API endpoint
+Add input sanitization
