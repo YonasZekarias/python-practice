@@ -9,3 +9,4 @@ Implement file upload
 Add form validation
 Add new API endpoint
 Add input sanitization
+Fix modal focus trap
