@@ -16,3 +16,4 @@ Fix CSS styling issue
 Fix security vulnerability
 Add search functionality
 Update dependencies
+Fix race condition
