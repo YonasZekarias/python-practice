@@ -19,3 +19,4 @@ Update dependencies
 Fix race condition
 Update package versions
 Refactor state management
+Add bulk operations
