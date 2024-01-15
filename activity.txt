@@ -18,3 +18,4 @@ Add search functionality
 Update dependencies
 Fix race condition
 Update package versions
+Refactor state management
