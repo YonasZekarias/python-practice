@@ -28,3 +28,4 @@ Add pagination support
 Update database schema
 Add form validation
 Add bulk operations
+Implement dark mode
