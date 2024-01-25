@@ -31,3 +31,4 @@ Add bulk operations
 Implement dark mode
 Fix API timeout handling
 Fix API timeout handling
+Add keyboard shortcuts
