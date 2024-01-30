@@ -35,3 +35,4 @@ Add keyboard shortcuts
 Add unit tests
 Add analytics tracking
 Fix CSS styling issue
+Add dashboard widgets
