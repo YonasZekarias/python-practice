@@ -34,3 +34,4 @@ Fix API timeout handling
 Add keyboard shortcuts
 Add unit tests
 Add analytics tracking
+Fix CSS styling issue
