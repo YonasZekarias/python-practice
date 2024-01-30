@@ -36,3 +36,4 @@ Add unit tests
 Add analytics tracking
 Fix CSS styling issue
 Add dashboard widgets
+Refactor state management
