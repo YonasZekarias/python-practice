@@ -38,3 +38,4 @@ Fix CSS styling issue
 Add dashboard widgets
 Refactor state management
 Fix race condition
+Update CI/CD pipeline
