@@ -41,3 +41,4 @@ Fix race condition
 Update CI/CD pipeline
 Update dependencies
 Implement rate limiting
+Add input sanitization
