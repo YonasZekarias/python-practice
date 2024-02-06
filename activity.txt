@@ -43,3 +43,4 @@ Update dependencies
 Implement rate limiting
 Add input sanitization
 Fix responsive layout
+Fix deployment issues
