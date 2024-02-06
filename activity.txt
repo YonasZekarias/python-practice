@@ -47,3 +47,4 @@ Fix deployment issues
 Add form validation
 Fix deployment issues
 Update environment config
+Update package versions
