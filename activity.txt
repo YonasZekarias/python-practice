@@ -48,3 +48,4 @@ Add form validation
 Fix deployment issues
 Update environment config
 Update package versions
+Fix authentication middleware
