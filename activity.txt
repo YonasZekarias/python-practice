@@ -51,3 +51,4 @@ Update package versions
 Fix authentication middleware
 Refactor user service
 Add webhook support
+Fix memory leak in worker
