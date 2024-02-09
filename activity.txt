@@ -54,3 +54,4 @@ Add webhook support
 Fix memory leak in worker
 Fix memory leak in worker
 Implement lazy loading
+Fix authentication middleware
