@@ -59,3 +59,4 @@ Update environment config
 Update package versions
 Refactor state management
 Add form validation
+Fix chart rendering
