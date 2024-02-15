@@ -58,3 +58,4 @@ Fix authentication middleware
 Update environment config
 Update package versions
 Refactor state management
+Add form validation
