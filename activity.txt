@@ -64,3 +64,4 @@ Add export feature
 Implement file upload
 Add pagination support
 Fix memory leak in worker
+Add error boundary
