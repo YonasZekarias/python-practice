@@ -74,3 +74,4 @@ Implement dark mode
 Refactor state management
 Add data filtering
 Add webhook support
+Fix API timeout handling
