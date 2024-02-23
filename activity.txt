@@ -70,3 +70,4 @@ Implement rate limiting
 Update UI components
 Update testing suite
 Fix chart rendering
+Implement dark mode
