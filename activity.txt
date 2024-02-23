@@ -73,3 +73,4 @@ Fix chart rendering
 Implement dark mode
 Refactor state management
 Add data filtering
+Add webhook support
