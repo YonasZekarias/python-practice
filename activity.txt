@@ -78,3 +78,4 @@ Fix API timeout handling
 Fix API timeout handling
 Optimize image loading
 Update build configuration
+Fix security vulnerability
