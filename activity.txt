@@ -77,3 +77,4 @@ Add webhook support
 Fix API timeout handling
 Fix API timeout handling
 Optimize image loading
+Update build configuration
