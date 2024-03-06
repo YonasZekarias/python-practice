@@ -88,3 +88,4 @@ Add new API endpoint
 Fix security vulnerability
 Add webhook support
 Add input sanitization
+Update documentation
