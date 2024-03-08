@@ -90,3 +90,4 @@ Add webhook support
 Add input sanitization
 Update documentation
 Fix race condition
+Fix API timeout handling
