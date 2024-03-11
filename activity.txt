@@ -97,3 +97,4 @@ Update environment config
 Refactor state management
 Update CI/CD pipeline
 Update CI/CD pipeline
+Fix CSS styling issue
