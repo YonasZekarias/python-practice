@@ -103,3 +103,4 @@ Fix memory leak in worker
 Update package versions
 Implement caching strategy
 Add new API endpoint
+Add data filtering
