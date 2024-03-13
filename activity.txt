@@ -102,3 +102,4 @@ Update database schema
 Fix memory leak in worker
 Update package versions
 Implement caching strategy
+Add new API endpoint
