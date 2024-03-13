@@ -100,3 +100,4 @@ Update CI/CD pipeline
 Fix CSS styling issue
 Update database schema
 Fix memory leak in worker
+Update package versions
