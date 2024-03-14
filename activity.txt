@@ -106,3 +106,4 @@ Add new API endpoint
 Add data filtering
 Update package versions
 Add unit tests
+Update environment config
