@@ -107,3 +107,4 @@ Add data filtering
 Update package versions
 Add unit tests
 Update environment config
+Implement lazy loading
