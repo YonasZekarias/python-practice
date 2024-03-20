@@ -118,3 +118,4 @@ Add export feature
 Add notification system
 Add error boundary
 Update environment config
+Refactor component structure
