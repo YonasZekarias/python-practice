@@ -116,3 +116,4 @@ Fix deployment issues
 Fix CSS styling issue
 Add export feature
 Add notification system
+Add error boundary
