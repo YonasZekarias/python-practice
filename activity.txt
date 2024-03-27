@@ -120,3 +120,4 @@ Add error boundary
 Update environment config
 Refactor component structure
 Add new API endpoint
+Add form validation
