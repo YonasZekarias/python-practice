@@ -126,3 +126,4 @@ Add analytics tracking
 Add analytics tracking
 Add loading states
 Optimize image loading
+Implement rate limiting
