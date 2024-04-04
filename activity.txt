@@ -131,3 +131,4 @@ Update database schema
 Add notification system
 Implement file upload
 Update CI/CD pipeline
+Add input sanitization
