@@ -144,3 +144,4 @@ Implement caching strategy
 Update package versions
 Implement caching strategy
 Update documentation
+Fix memory leak in worker
