@@ -148,3 +148,4 @@ Fix memory leak in worker
 Update documentation
 Fix race condition
 Fix deployment issues
+Fix chart rendering
