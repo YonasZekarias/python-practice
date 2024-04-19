@@ -150,3 +150,4 @@ Fix race condition
 Fix deployment issues
 Fix chart rendering
 Implement file upload
+Add integration tests
