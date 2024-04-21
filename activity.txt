@@ -152,3 +152,4 @@ Fix chart rendering
 Implement file upload
 Add integration tests
 Refactor component structure
+Add error boundary
