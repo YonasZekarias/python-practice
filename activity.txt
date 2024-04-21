@@ -151,3 +151,4 @@ Fix deployment issues
 Fix chart rendering
 Implement file upload
 Add integration tests
+Refactor component structure
