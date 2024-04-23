@@ -154,3 +154,4 @@ Add integration tests
 Refactor component structure
 Add error boundary
 Add unit tests
+Add bulk operations
