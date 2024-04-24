@@ -158,3 +158,4 @@ Add bulk operations
 Update UI components
 Refactor API client
 Implement file upload
+Fix deployment issues
