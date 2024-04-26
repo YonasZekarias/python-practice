@@ -169,3 +169,4 @@ Add integration tests
 Add webhook support
 Add export feature
 Fix deployment issues
+Fix memory leak in worker
