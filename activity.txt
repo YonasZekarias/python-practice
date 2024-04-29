@@ -171,3 +171,4 @@ Add export feature
 Fix deployment issues
 Fix memory leak in worker
 Update environment config
+Fix race condition
