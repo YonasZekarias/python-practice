@@ -174,3 +174,4 @@ Update environment config
 Fix race condition
 Fix chart rendering
 Fix CSS styling issue
+Add unit tests
