@@ -175,3 +175,4 @@ Fix race condition
 Fix chart rendering
 Fix CSS styling issue
 Add unit tests
+Add loading states
