@@ -173,3 +173,4 @@ Fix memory leak in worker
 Update environment config
 Fix race condition
 Fix chart rendering
+Fix CSS styling issue
