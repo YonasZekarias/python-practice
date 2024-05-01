@@ -177,3 +177,4 @@ Fix CSS styling issue
 Add unit tests
 Add loading states
 Fix API timeout handling
+Add error boundary
