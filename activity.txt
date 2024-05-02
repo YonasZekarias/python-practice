@@ -178,3 +178,4 @@ Add unit tests
 Add loading states
 Fix API timeout handling
 Add error boundary
+Implement dark mode
