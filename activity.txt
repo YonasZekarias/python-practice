@@ -183,3 +183,4 @@ Fix API timeout handling
 Add integration tests
 Fix memory leak in worker
 Implement lazy loading
+Add unit tests
