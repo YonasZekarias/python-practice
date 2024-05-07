@@ -184,3 +184,4 @@ Add integration tests
 Fix memory leak in worker
 Implement lazy loading
 Add unit tests
+Implement undo/redo
