@@ -185,3 +185,4 @@ Fix memory leak in worker
 Implement lazy loading
 Add unit tests
 Implement undo/redo
+Update database schema
