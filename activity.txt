@@ -190,3 +190,4 @@ Add search functionality
 Add export feature
 Update package versions
 Update environment config
+Add pagination support
