@@ -194,3 +194,4 @@ Add pagination support
 Update build configuration
 Fix memory usage issue
 Add integration tests
+Fix memory leak in worker
