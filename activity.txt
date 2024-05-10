@@ -193,3 +193,4 @@ Update environment config
 Add pagination support
 Update build configuration
 Fix memory usage issue
+Add integration tests
