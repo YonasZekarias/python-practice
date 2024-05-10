@@ -191,3 +191,4 @@ Add export feature
 Update package versions
 Update environment config
 Add pagination support
+Update build configuration
