@@ -196,3 +196,4 @@ Fix memory usage issue
 Add integration tests
 Fix memory leak in worker
 Optimize image loading
+Add loading states
