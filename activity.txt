@@ -203,3 +203,4 @@ Update CI/CD pipeline
 Add data filtering
 Add search functionality
 Update UI components
+Fix responsive layout
