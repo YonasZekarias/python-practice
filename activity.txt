@@ -205,3 +205,4 @@ Add search functionality
 Update UI components
 Fix responsive layout
 Update documentation
+Add bulk operations
