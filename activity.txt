@@ -209,3 +209,4 @@ Add bulk operations
 Implement rate limiting
 Update dependencies
 Implement dark mode
+Add keyboard shortcuts
