@@ -211,3 +211,4 @@ Update dependencies
 Implement dark mode
 Add keyboard shortcuts
 Fix CSS styling issue
+Add form validation
