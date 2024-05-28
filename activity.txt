@@ -217,3 +217,4 @@ Fix race condition
 Add pagination support
 Add input sanitization
 Fix security vulnerability
+Implement undo/redo
