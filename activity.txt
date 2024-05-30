@@ -220,3 +220,4 @@ Fix security vulnerability
 Implement undo/redo
 Fix responsive layout
 Add unit tests
+Optimize image loading
