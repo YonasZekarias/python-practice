@@ -222,3 +222,4 @@ Fix responsive layout
 Add unit tests
 Optimize image loading
 Add data filtering
+Fix memory usage issue
