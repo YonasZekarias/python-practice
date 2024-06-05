@@ -234,3 +234,4 @@ Fix memory usage issue
 Fix race condition
 Fix chart rendering
 Update documentation
+Add integration tests
