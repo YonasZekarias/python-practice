@@ -235,3 +235,4 @@ Fix race condition
 Fix chart rendering
 Update documentation
 Add integration tests
+Update environment config
