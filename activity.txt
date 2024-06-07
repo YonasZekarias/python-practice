@@ -236,3 +236,4 @@ Fix chart rendering
 Update documentation
 Add integration tests
 Update environment config
+Refactor user service
