@@ -240,3 +240,4 @@ Refactor user service
 Add notification system
 Update CI/CD pipeline
 Add analytics tracking
+Add error boundary
