@@ -244,3 +244,4 @@ Add error boundary
 Add keyboard shortcuts
 Implement file upload
 Fix memory leak in worker
+Fix API timeout handling
