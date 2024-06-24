@@ -246,3 +246,4 @@ Implement file upload
 Fix memory leak in worker
 Fix API timeout handling
 Add loading states
+Fix chart rendering
