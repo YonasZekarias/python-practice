@@ -249,3 +249,4 @@ Add loading states
 Fix chart rendering
 Update build configuration
 Add dashboard widgets
+Refactor API client
