@@ -251,3 +251,4 @@ Update build configuration
 Add dashboard widgets
 Refactor API client
 Add webhook support
+Add dashboard widgets
