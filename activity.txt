@@ -250,3 +250,4 @@ Fix chart rendering
 Update build configuration
 Add dashboard widgets
 Refactor API client
+Add webhook support
