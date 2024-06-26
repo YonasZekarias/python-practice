@@ -252,3 +252,4 @@ Add dashboard widgets
 Refactor API client
 Add webhook support
 Add dashboard widgets
+Fix chart rendering
