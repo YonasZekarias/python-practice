@@ -254,3 +254,4 @@ Add webhook support
 Add dashboard widgets
 Fix chart rendering
 Add data filtering
+Add search functionality
