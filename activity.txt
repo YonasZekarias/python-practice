@@ -258,3 +258,4 @@ Add search functionality
 Implement dark mode
 Update UI components
 Add export feature
+Update documentation
