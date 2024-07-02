@@ -261,3 +261,4 @@ Add export feature
 Update documentation
 Update testing suite
 Refactor component structure
+Add loading states
