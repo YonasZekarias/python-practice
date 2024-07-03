@@ -263,3 +263,4 @@ Update testing suite
 Refactor component structure
 Add loading states
 Add data filtering
+Add dashboard widgets
