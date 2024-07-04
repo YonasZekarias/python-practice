@@ -266,3 +266,4 @@ Add data filtering
 Add dashboard widgets
 Update documentation
 Fix race condition
+Add data filtering
