@@ -278,3 +278,4 @@ Update environment config
 Implement file upload
 Update environment config
 Implement rate limiting
+Fix memory leak in worker
