@@ -281,3 +281,4 @@ Implement rate limiting
 Fix memory leak in worker
 Add unit tests
 Fix responsive layout
+Implement file upload
