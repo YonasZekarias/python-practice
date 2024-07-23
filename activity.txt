@@ -286,3 +286,4 @@ Fix security vulnerability
 Add new API endpoint
 Improve error handling
 Fix memory usage issue
+Fix memory leak in worker
