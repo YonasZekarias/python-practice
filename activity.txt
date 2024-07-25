@@ -289,3 +289,4 @@ Fix memory usage issue
 Fix memory leak in worker
 Fix authentication middleware
 Add input sanitization
+Update environment config
