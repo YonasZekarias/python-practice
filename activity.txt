@@ -290,3 +290,4 @@ Fix memory leak in worker
 Fix authentication middleware
 Add input sanitization
 Update environment config
+Update package versions
