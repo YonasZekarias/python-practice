@@ -291,3 +291,4 @@ Fix authentication middleware
 Add input sanitization
 Update environment config
 Update package versions
+Fix responsive layout
