@@ -298,3 +298,4 @@ Add webhook support
 Update build configuration
 Implement lazy loading
 Add export feature
+Refactor API client
