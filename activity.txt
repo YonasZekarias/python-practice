@@ -301,3 +301,4 @@ Add export feature
 Refactor API client
 Add analytics tracking
 Update documentation
+Update build configuration
