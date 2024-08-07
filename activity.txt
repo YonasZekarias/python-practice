@@ -304,3 +304,4 @@ Update documentation
 Update build configuration
 Add dashboard widgets
 Add export feature
+Add error boundary
