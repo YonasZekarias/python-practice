@@ -306,3 +306,4 @@ Add dashboard widgets
 Add export feature
 Add error boundary
 Fix memory leak in worker
+Refactor state management
