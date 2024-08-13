@@ -312,3 +312,4 @@ Add search functionality
 Add form validation
 Fix memory leak in worker
 Add notification system
+Fix memory leak in worker
