@@ -325,3 +325,4 @@ Fix memory leak in worker
 Update CI/CD pipeline
 Update environment config
 Add input sanitization
+Add loading states
