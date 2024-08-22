@@ -331,3 +331,4 @@ Improve error handling
 Add webhook support
 Fix CSS styling issue
 Add data filtering
+Fix responsive layout
