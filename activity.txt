@@ -337,3 +337,4 @@ Fix security vulnerability
 Add webhook support
 Refactor state management
 Update database schema
+Fix responsive layout
