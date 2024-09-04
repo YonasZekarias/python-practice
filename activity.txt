@@ -346,3 +346,4 @@ Add new API endpoint
 Add unit tests
 Update testing suite
 Refactor user service
+Update environment config
