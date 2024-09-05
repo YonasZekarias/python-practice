@@ -347,3 +347,4 @@ Add unit tests
 Update testing suite
 Refactor user service
 Update environment config
+Add analytics tracking
