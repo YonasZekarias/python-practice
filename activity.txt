@@ -350,3 +350,4 @@ Update environment config
 Add analytics tracking
 Optimize image loading
 Add keyboard shortcuts
+Update documentation
