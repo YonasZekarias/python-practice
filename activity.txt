@@ -354,3 +354,4 @@ Update documentation
 Fix CSS styling issue
 Fix deployment issues
 Add dashboard widgets
+Optimize image loading
