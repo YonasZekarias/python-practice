@@ -356,3 +356,4 @@ Fix deployment issues
 Add dashboard widgets
 Optimize image loading
 Refactor API client
+Add form validation
