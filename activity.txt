@@ -362,3 +362,4 @@ Add integration tests
 Update package versions
 Refactor API client
 Refactor state management
+Add notification system
