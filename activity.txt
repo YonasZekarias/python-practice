@@ -366,3 +366,4 @@ Add notification system
 Implement caching strategy
 Add export feature
 Fix CSS styling issue
+Update documentation
