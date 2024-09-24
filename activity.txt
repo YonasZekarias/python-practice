@@ -369,3 +369,4 @@ Fix CSS styling issue
 Update documentation
 Add unit tests
 Add error boundary
+Add data filtering
