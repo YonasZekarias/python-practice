@@ -370,3 +370,4 @@ Update documentation
 Add unit tests
 Add error boundary
 Add data filtering
+Fix memory usage issue
