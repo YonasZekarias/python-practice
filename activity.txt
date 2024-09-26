@@ -377,3 +377,4 @@ Fix race condition
 Add export feature
 Add loading states
 Refactor component structure
+Add keyboard shortcuts
