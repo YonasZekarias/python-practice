@@ -383,3 +383,4 @@ Add data filtering
 Add form validation
 Implement dark mode
 Fix authentication middleware
+Add bulk operations
