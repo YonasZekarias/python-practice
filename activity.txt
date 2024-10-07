@@ -391,3 +391,4 @@ Add export feature
 Implement rate limiting
 Implement rate limiting
 Add unit tests
+Add search functionality
