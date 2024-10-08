@@ -394,3 +394,4 @@ Add unit tests
 Add search functionality
 Fix authentication middleware
 Fix memory usage issue
+Refactor API client
