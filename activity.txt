@@ -398,3 +398,4 @@ Refactor API client
 Update testing suite
 Add unit tests
 Update package versions
+Add error boundary
