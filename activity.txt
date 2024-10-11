@@ -399,3 +399,4 @@ Update testing suite
 Add unit tests
 Update package versions
 Add error boundary
+Update UI components
