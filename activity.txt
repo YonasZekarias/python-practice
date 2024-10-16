@@ -404,3 +404,4 @@ Refactor state management
 Optimize image loading
 Update build configuration
 Add form validation
+Add integration tests
