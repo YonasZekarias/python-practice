@@ -416,3 +416,4 @@ Add pagination support
 Implement file upload
 Fix memory leak in worker
 Fix memory leak in worker
+Add form validation
