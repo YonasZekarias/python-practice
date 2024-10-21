@@ -414,3 +414,4 @@ Implement undo/redo
 Update testing suite
 Add pagination support
 Implement file upload
+Fix memory leak in worker
