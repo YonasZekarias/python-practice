@@ -428,3 +428,4 @@ Fix deployment issues
 Refactor user service
 Add notification system
 Add unit tests
+Add search functionality
