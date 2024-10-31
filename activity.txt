@@ -430,3 +430,4 @@ Add notification system
 Add unit tests
 Add search functionality
 Add unit tests
+Add bulk operations
