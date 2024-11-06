@@ -436,3 +436,4 @@ Improve error handling
 Add loading states
 Add loading states
 Fix deployment issues
+Fix memory leak in worker
