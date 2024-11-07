@@ -440,3 +440,4 @@ Fix memory leak in worker
 Optimize image loading
 Update documentation
 Improve error handling
+Add notification system
