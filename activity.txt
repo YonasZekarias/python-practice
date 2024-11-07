@@ -438,3 +438,4 @@ Add loading states
 Fix deployment issues
 Fix memory leak in worker
 Optimize image loading
+Update documentation
