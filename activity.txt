@@ -446,3 +446,4 @@ Update documentation
 Update documentation
 Fix CSS styling issue
 Fix API timeout handling
+Fix chart rendering
