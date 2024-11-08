@@ -444,3 +444,4 @@ Add notification system
 Fix memory leak in worker
 Update documentation
 Update documentation
+Fix CSS styling issue
