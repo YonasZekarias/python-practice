@@ -451,3 +451,4 @@ Add notification system
 Fix authentication middleware
 Refactor API client
 Fix deployment issues
+Refactor user service
