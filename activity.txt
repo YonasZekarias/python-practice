@@ -464,3 +464,4 @@ Add analytics tracking
 Fix CSS styling issue
 Fix race condition
 Refactor API client
+Add integration tests
