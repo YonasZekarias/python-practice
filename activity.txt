@@ -466,3 +466,4 @@ Fix race condition
 Refactor API client
 Add integration tests
 Implement lazy loading
+Fix modal focus trap
