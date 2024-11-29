@@ -469,3 +469,4 @@ Implement lazy loading
 Fix modal focus trap
 Refactor API client
 Fix race condition
+Fix race condition
