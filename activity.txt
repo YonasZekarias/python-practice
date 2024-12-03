@@ -471,3 +471,4 @@ Refactor API client
 Fix race condition
 Fix race condition
 Update UI components
+Add new API endpoint
