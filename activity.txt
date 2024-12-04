@@ -475,3 +475,4 @@ Add new API endpoint
 Add integration tests
 Update package versions
 Add error boundary
+Add keyboard shortcuts
