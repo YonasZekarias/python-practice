@@ -477,3 +477,4 @@ Update package versions
 Add error boundary
 Add keyboard shortcuts
 Fix chart rendering
+Fix memory leak in worker
