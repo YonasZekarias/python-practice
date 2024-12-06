@@ -481,3 +481,4 @@ Fix memory leak in worker
 Refactor component structure
 Update build configuration
 Add unit tests
+Add analytics tracking
