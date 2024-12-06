@@ -479,3 +479,4 @@ Add keyboard shortcuts
 Fix chart rendering
 Fix memory leak in worker
 Refactor component structure
+Update build configuration
