@@ -488,3 +488,4 @@ Add notification system
 Add notification system
 Update dependencies
 Add webhook support
+Fix responsive layout
