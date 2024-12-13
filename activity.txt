@@ -489,3 +489,4 @@ Add notification system
 Update dependencies
 Add webhook support
 Fix responsive layout
+Update database schema
