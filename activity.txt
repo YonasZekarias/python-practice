@@ -496,3 +496,4 @@ Improve error handling
 Update build configuration
 Update build configuration
 Fix authentication middleware
+Refactor component structure
