@@ -499,3 +499,4 @@ Fix authentication middleware
 Refactor component structure
 Refactor user service
 Implement undo/redo
+Fix race condition
