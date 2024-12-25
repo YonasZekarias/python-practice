@@ -502,3 +502,4 @@ Implement undo/redo
 Fix race condition
 Implement undo/redo
 Implement dark mode
+Update build configuration
