@@ -504,3 +504,4 @@ Implement undo/redo
 Implement dark mode
 Update build configuration
 Fix responsive layout
+Fix CSS styling issue
