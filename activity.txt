@@ -505,3 +505,4 @@ Implement dark mode
 Update build configuration
 Fix responsive layout
 Fix CSS styling issue
+Add notification system
