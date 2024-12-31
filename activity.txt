@@ -509,3 +509,4 @@ Add notification system
 Implement file upload
 Add export feature
 Add keyboard shortcuts
+Add loading states
